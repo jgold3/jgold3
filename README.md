@@ -2,15 +2,13 @@
 
 ## I'm a computer science student and web developer at UMBC
 
-- 🔭 I'm currently working on [Data Structures Game][game] with a couple of my peers!
+- 🔭 I'm currently working on [Data Structures Game][game]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love long walks on the beach 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/lhqpdurw0o5ml6f0bwb0yx8z0?si=N7DE6TYbT_6M7tRY2ddVXQ)
+---
 
 ### Connect with me:
 
@@ -38,6 +36,8 @@
 <br />
 <br />
 
+---
+
 <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=jgold3&show_icons=true&hide_border=true" />
 
 
@@ -46,3 +46,4 @@
 [twitter]: https://twitter.com/ImJoshingWithU
 [instagram]: https://www.instagram.com/im.just.joshin.you/
 [linkedin]: https://www.linkedin.com/in/josh-goldsmith-5ba929203
+
