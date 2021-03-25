@@ -2,7 +2,7 @@
 
 ## I'm a computer science student and web developer at UMBC
 
-- 🔭 I'm currently working on [Data Structures Game][game]!
+- 🔭 I'm currently working on [Data Structures Game][game] with a couple of my peers!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
