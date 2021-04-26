@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=jgold3&show_icons=true&hide_border=true" />
+<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=jgold3&show_icons=true&hide_border=true&theme=dracula&count_private=True&hide_rank=True"/>
 
 
 
