@@ -2,7 +2,7 @@
 
 ## I'm a computer science student and web developer at UMBC
 
-- 🔭 I'm currently working on [Data Structures Game][game]!
+- 🔭 I'm currently working on [SunFind][proj]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -42,7 +42,7 @@
 
 
 
-[game]: https://github.com/Plongesam/data-structures-game
+[proj]: https://github.com/jgold3/Sun-Find
 [twitter]: https://twitter.com/ImJoshingWithU
 [instagram]: https://www.instagram.com/im.just.joshin.you/
 [linkedin]: https://www.linkedin.com/in/josh-goldsmith-5ba929203
