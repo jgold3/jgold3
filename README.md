@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="27px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1623360640~hmac=c96795f84d5c08d17f7794e295b9b57e" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
