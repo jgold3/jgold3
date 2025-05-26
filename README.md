@@ -1,11 +1,11 @@
 ### Hi there, I'm Josh 👋
 
-## I'm a computer science student and web developer at UMBC
+## I'm a Full-Stack Web Developer working for Booz Allen Hamilton
 
-- 🔭 I'm currently working on [SunFind][proj]!
+- 🔭 I'm currently working on IntendAI, an adversarial QA agent meant to find uninteded use cases for a given application!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love long walks on the beach 
 
 ---
