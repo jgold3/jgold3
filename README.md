@@ -11,25 +11,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="27px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X" width="26px" height="26px"/>][twitter]&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="26px" height="26px"/>][linkedin]&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg" alt="Website" width="26px" height="26px"/>][portfolio]
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" alt="JavaScript" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" alt="TypeScript" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" alt="Python" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" alt="HTML5" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" alt="CSS3" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" alt="React" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/reactquery.svg" alt="React Query" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/redux.svg" alt="Redux" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg" alt="Next.js" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/springboot.svg" alt="Springboot" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/express.svg" alt="Express" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodedotjs.svg" alt="NodeJS" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mongodb.svg" alt="MongoDB" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" alt="MySQL" width="26px" height="26px"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" alt="Postgresql" width="26px" height="26px"/>
+
 
 <br />
 <br />
@@ -40,8 +29,7 @@
 
 
 
-[proj]: https://github.com/jgold3/Sun-Find
+[portfolio]: https://joshgoldsmith.dev
 [twitter]: https://twitter.com/ImJoshingWithU
-[instagram]: https://www.instagram.com/im.just.joshin.you/
 [linkedin]: https://www.linkedin.com/in/josh-goldsmith-5ba929203
 
