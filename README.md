@@ -3,9 +3,8 @@
 ## I'm a Full-Stack Web Developer working for Booz Allen Hamilton
 
 - 🔭 I'm currently working on IntendAI, an adversarial QA agent meant to find uninteded use cases for a given application!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2025 Goals: Finish 2 side projects, at least one using AI
 - ⚡ Fun fact: I love long walks on the beach 
 
 ---
